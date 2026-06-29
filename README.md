@@ -4,7 +4,7 @@ Jogo 2D de arcade feito em **Python + Pygame**, inspirado na Copa do Mundo de 20
 
 Você controla a goleira **Madu** e precisa defender o gol contra uma sequência de bolas que caem do topo da tela. Defenda **15 bolas** para vencer — mas cuidado, você só tem **3 vidas**!
 
-![Tela de menu]([screenshots/](https://github.com/madubernini/madu-defender-2026/blob/main/scheenshots/menu.png))
+![Tela de menu](https://github.com/madubernini/madu-defender-2026/blob/main/scheenshots/menu.png)
 ![Jogo em andamento](screenshots/gameplay.png)
 ![Tela de vitória](screenshots/vitoria.png)
 
